@@ -6,27 +6,14 @@
 
 ---
 
-Lien vers[Learn@Home.pdf](./Docs/figma__Learn@Home/Learn@Home.pdf)
+[01_diagrammes_de_cas_d_usage.pdf](./01_diagrammes_de_cas_d_usage.pdf)
 
-## Lien 01_diagrammes_de_cas_d_usage
+[02_user_stories.pdf](./02_user_stories.pdf)
 
----
-Lien vers les [01_diagrammes_de_cas_d_usage.pdf](./01_diagrammes_de_cas_d_usage.pdf)
+[03_maquettes_du_site.pdf](./03_maquettes_du_site.pdf)
 
-## Lien 02_user_stories
+[maquettes_du_site](`https://www.figma.com/file/X1vB9FXanvMQ0RR64Lxen9/soutenance_p10?type=design&node-id=0%3A1&mode=design&t=q8623PouZC7pintW-1`)
 
----
-Lien vers [02_user_stories.pdf](./02_user_stories.pdf)
+[04_tableau_kanban](./04_tableau_kanban.pdf)
 
-## Lien Figma
-
----
-Lien vers [Figma_Learn@Home](https://www.figma.com/file/dcPIh4MB6lMWazAcOIPXGs/Learn%40Home-(Copy)?type=design&node-id=0-1&mode=design&t=pJCmthy2ckMj6xK2-0)
-
-## Lien Kanban sur GitHub
-
----
-
-Lien vers [kanban issues](https://github.com/ratarby/p10_Dev4U/issues)
-
-Lien vers [Kaban learn@Home](https://github.com/users/ratarby/projects/1/views/1)
+[tableau_kanban](`https://ubiquitous-beechnut-ace.notion.site/Dev4U-projet-Learn-Home-388dc63e9ae84ee09504f996c54f459a?pvs=4`)
