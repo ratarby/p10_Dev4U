@@ -16,6 +16,6 @@
 
 ### Liens
 
-- [figma](`https://www.figma.com/file/JGDbiKcF1fHalbppSIFoEL/LEARN%40HOME_New?type=design&node-id=0%3A1&mode=design&t=4B1ETB8EEleEqa5L-1`)
+- [maquettes_du_site_sur_figma](`https://www.figma.com/file/JGDbiKcF1fHalbppSIFoEL/LEARN%40HOME_New?type=design&node-id=0%3A1&mode=design&t=4B1ETB8EEleEqa5L-1`)
   
-- [kanban](`https://www.notion.so/Dev4U-projet-Learn-Home-b30f8380ad2949a7b2dedff282afc452?pvs=4`)
+- [tableau_kanban](`https://www.notion.so/Dev4U-projet-Learn-Home-b30f8380ad2949a7b2dedff282afc452?pvs=4`)
